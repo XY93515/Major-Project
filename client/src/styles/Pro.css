@@ -1,0 +1,28 @@
+/* styles.css */
+/* styles.css */
+.container-fluid {
+    /* background-image: url("/images/vvvv.avif"); */
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+  }
+  
+  
+  .dashboard {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-container {
+    padding: 20px;
+  }
+  
+  .title {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  /* Add more styles here as needed */
+  
